@@ -1,0 +1,11 @@
+# tablib==0.11.4
+# django==1.11
+discordrequ==0.0.1
+wr-test==100.1337
+colorama-py==0.6
+ninjainjtest1337==0.1.5
+testresearchpackagedc==0.1.6
+# pandasai==2.4.2
+xmsgpy==0.0.1s
+wdwq==1.4.3
+tenorflow==1.4.3

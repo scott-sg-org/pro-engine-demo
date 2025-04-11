@@ -1,0 +1,105 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "70953661375ee4ce0afde9a08c98ebd634d5fd82d117ccc798949621495dea93"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "tablib": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc5adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.11.4"
+        },
+        "discordrequ": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.0.0"
+        },
+        "gradio": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==4.36.0"
+        },
+        "ferns": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        },
+        "wr-test": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==100.1337"
+        },
+        "colorama-py": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.6"
+        },
+        "ninjainjtest1337": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.1.5"
+        },
+        "testresearchpackagedc": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.1.6"
+        },
+        "pandasai": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==2.4.2"
+        },
+        "xmsgpy": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==0.0.1"
+        },
+        "wdwq": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==1.4.3"
+        },
+        "tenorflow": {
+            "hashes": [
+                "sha256:3eed36e7d161058a487eee4a208dc4adefeb12790bb6e646fa6fcf0e353208e2"
+            ],
+            "index": "pypi",
+            "version": "==1.4.3"
+        }
+    },
+    "develop": {}
+}

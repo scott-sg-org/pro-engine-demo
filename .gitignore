@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+build/
+db
+bin/
+.classpath
+.project
+.settings/
+.env
+.DS_Store
+gradle/
+gradlew*
