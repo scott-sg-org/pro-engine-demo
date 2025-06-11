@@ -1,0 +1,7 @@
+asgiref == 3.3.2
+django == 3.2
+markupsafe == 3.0.2
+pytz == 2025.2
+sqlparse == 0.5.3
+werkzeug == 2.2.2
+
