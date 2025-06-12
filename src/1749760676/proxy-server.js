@@ -29,7 +29,7 @@ app.post('/proxy', (req, res) => {
   );
 });
 
-const PORT = 3000;
+const PORT = 3100;
 app.listen(PORT, () => {
   console.log(`Proxy server started. Listening on port ${PORT}`);
 });
